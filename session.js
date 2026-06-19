@@ -15,19 +15,19 @@
 //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : © XPROVerce MD
+//  * @project_name : © DILSHAN MD
 //  * @version      : 1.0
-//  * @author       : Janith Rashmika
-//  * @youtube      : https://www.youtube.com/@gamingrash2006
-//  * @description  : A Multi-functional WhatsApp bot created by Janith Rashmika.
+//  * @author       : dilaksha dilshan
+//  * @youtube      : https://www.youtube.com/@gamingrash2004
+//  * @description  : A Multi-functional WhatsApp bot created by dilaksha dilshan.
 //*
 //*
-//Base by Janith Rashmika
-//GitHub: @Mrrashmika
-//WhatsApp: +94717775628
-//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
-//   * Created By GitHub: Mrrashmika
-//   * Credit To Janith Rashmika
+//Base by dilaksha dilshan
+//GitHub: @mrdila
+//WhatsApp: +94766539100
+//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2004
+//   * Created By GitHub: Mrdila
+//   * Credit To dilaksha dilshan
 // ⛥┌┤
 // */
 const fs = require('fs');
