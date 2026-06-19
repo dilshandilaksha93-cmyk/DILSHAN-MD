@@ -5,7 +5,7 @@ module.exports = {
   //====================menu=================================
   MENUMSG: function (pushname, config) {
     return `
-> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+> [⚡ DILSHAN-MD ⚡]
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > ==========================
 > ♠ 𝙾𝚠𝚗𝚎𝚛  : ${config.OWNER_NAME}
@@ -15,7 +15,7 @@ module.exports = {
   //======================download============================
   TIKTOK: function (datas,pushname, q) {
     return `
-> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+> [⚡ DILSHAN-MD ⚡]
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > [ T I K T O K  D L ]
 > ========================
@@ -26,7 +26,7 @@ module.exports = {
   },
   FACEBOOK: function (title,pushname, q) {
     return `
-> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+> [⚡ DILSHAN-MD ⚡]
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > [ F A C E B O O K  D L ]
 > =======================
@@ -36,7 +36,7 @@ module.exports = {
   },
   TWITTER: function (videoDescription, videoTitle,pushname) {
     return `
-${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
+${config.BOTNAME || "> [⚡ DILSHAN-MD ⚡]"}
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > [ T W I T T E R  D L ]
 > =======================
@@ -46,7 +46,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   DIRECT: function(pushname,fileName,fileSize,fileType){
     return `
-"> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+"> [⚡ DILSHAN-MD ⚡]
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*      
 > [ D I R E C T  D L ]
 > =======================        
@@ -57,7 +57,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   MEDIAFIRE: function(pushname,data,fileSize){
     return `
-> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+> [⚡ DILSHAN-MD ⚡]
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > [ M E D I A F I R A ]
 > ======================
@@ -67,7 +67,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   APK: function(pushname,data,correctsize) {
     return `
-> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+> [⚡ DILSHAN-MD ⚡]
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > [ A P K  D L ]
 > =======================
@@ -80,7 +80,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   SPOTIFY: function(pushname,item) {
     return `
-${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
+${config.BOTNAME || "> [⚡ DILSHAN-MD ⚡]"}
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > [ S P O T I F Y  D L ]
 > =====================
@@ -94,10 +94,10 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   //=================main==================================
   IMG: "https://i.ibb.co/VWy8DK06/Whats-App-Image-2025-12-09-at-17-38-33-fd4d4ecd.jpg",
   ALIVEVOICE: "./src/media/Auto_voice/alive.aac",
-  MOVIETITLE: "> *『⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 𝑪𝑰𝑵𝑬𝑴𝑨 』*",
+  MOVIETITLE: "> *『 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 𝑪𝑰𝑵𝑬𝑴𝑨 』*",
   ALIVEMSG: function (config, pushname, runtime) {
     return `
-    > [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+    > [ ⚡DILSHAN-MD⚡]
     > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
     > [  A  L  I  V  E  ]
     > =======================
@@ -123,7 +123,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   SINHALASUB: function (movieData,oce) {
     return `
-> *『⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 𝑪𝑰𝑵𝑬𝑴𝑨 』*
+> *『  𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 𝑪𝑰𝑵𝑬𝑴𝑨 』*
 > =====================
 > 🎬 *Title:* ${oce}${movieData.title}${oce}
 > 📝 *Tagline:* ${oce}${movieData.metadata.tagline || "N/A"}${oce}
@@ -141,7 +141,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   CINESUBZ: function (title, metadata, rating,tagline,genres,quality,description,oce) {
     return `
-> *『⚡ 𝗫ＰＲＯ𝗩ＥＲＣＥ 𝑪𝑰𝑵𝑬𝑴𝑨 』*
+> *『 𝗫ＰＲＯ𝗩ＥＲＣＥ 𝑪𝑰𝑵𝑬𝑴𝑨 』*
 > =====================
 > 🎬 *Title:* ${oce}${title}${oce}
 > 📝 *Tagline:* ${oce}${tagline || "N/A"}${oce}
@@ -159,7 +159,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   CINETVSHOW: function (episodeInfo,quality,oce) {
     return `
-> *『⚡ 𝗫ＰＲＯ𝗩ＥＲＣＥ 𝑪𝑰𝑵𝑬𝑴𝑨 』*
+> *『 𝗫ＰＲＯ𝗩ＥＲＣＥ 𝑪𝑰𝑵𝑬𝑴𝑨 』*
 > =====================
 > 📺 *Series:* ${oce}${episodeInfo.series || "N/A"}${oce}
 > 🎬 *Episode:* ${oce}${episodeInfo.seasonEpisode || "N/A"}${oce}
@@ -173,7 +173,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   CINETVSHOWALLDL: function (seriesTitle,rating,metadata,genres,movieData,oce) {
     return `
-> *『⚡ 𝗫ＰＲＯ𝗩ＥＲＣＥ 𝑪𝑰𝑵𝑬𝑴𝑨 』*
+> *『 𝗫ＰＲＯ𝗩ＥＲＣＥ 𝑪𝑰𝑵𝑬𝑴𝑨 』*
 > =====================
 > 🎬 *Series:* ${oce}${seriesTitle}${oce}
 > ⭐ *IMDb:* ${oce}${rating}${oce}
@@ -188,7 +188,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   //=====================youtube===========================================
   SONG: function (data,pushname,oce) {
     return `
-> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+> [⚡ DILSHAN-MD ⚡]
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > ==========================
 > ${oce}[  S  O  N  G    D  L  ]${oce}
@@ -203,7 +203,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   YTMP3: function (data) {
     return `
-> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+> [⚡ DILSHAN-MD ⚡]
 > ==========================
 > ➥ *Title:* ${data.title} 
 > ➥ *Duration:* ${data.timestamp} 
@@ -214,7 +214,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   VIDEO: function (data,pushname,oce) {
     return  `
-> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+> [⚡ DILSHAN-MD ⚡]
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > ==========================
 > ${oce}[  Y O U T U B E    D  L  ]${oce}
@@ -229,7 +229,7 @@ ${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
   },
   YTMP4: function (data) {
     return `
-> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]
+> [⚡ DILSHAN-MD ⚡]
 > ==========================
 > ➥ *Title:* ${data.title} 
 > ➥ *Duration:* ${data.timestamp} 
