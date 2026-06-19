@@ -2,11 +2,10 @@
 
 <img src="https://i.ibb.co/VWy8DK06/Whats-App-Image-2025-12-09-at-17-38-33-fd4d4ecd.jpg" width="180" />
 
-# 👑 XPROVerce MD
+# 👑 DILSHAN-MD
 ### Advanced WhatsApp Multi-Device Bot
 
-[🌐 Home](http://xpro-verce.vercel.app/) •
-[💻 GitHub](https://github.com/xproverce/XPROVerce-MD)
+[💻 GitHub](https://github.com/DILSHAN-MD-MD)
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ## 🚀 About
 
-**XPROVerce MD** is a powerful **WhatsApp Multi-Device bot** built using **Baileys MD**.  
+**DILSHAN-MD** is a powerful **WhatsApp Multi-Device bot** built using **SATHIYA MD**.  
 Designed for **speed, stability, and scalability**, it supports plugins, automation, media tools, and cloud deployment.
 
 ---
@@ -38,20 +37,14 @@ Designed for **speed, stability, and scalability**, it supports plugins, automat
 ## 🛠️ Tech Stack
 
 - Node.js
-- Baileys MD
-- Express.js
-- Axios
-- Sharp
-- Node-Cache
-- MegaJS
 
 ---
 
 ## 📦 Installation (Local)
 
 ```bash
-git clone https://github.com/xproverce/XPROVerce-MD.git
-cd XPROVerce-MD
+git clone https://github.com/DILSHAN-MD.git
+cd DILSHAN-MD
 npm install
 npm start
 ````
@@ -64,86 +57,6 @@ npm start
 PORT=8000
 SESSION_ID=your_session_id
 ```
-
----
-
-# 🚀 Deployment Platforms
-
-## 🟣 Heroku
-
-> ⚠️ Heroku requires a **worker dyno**, not web.
-
-1. Fork the repository
-2. Create a new Heroku app
-3. Set **Buildpack**:
-
-   ```
-   heroku/nodejs
-   ```
-4. Add Environment Variables in **Config Vars**
-5. Deploy from GitHub
-6. Start **worker dyno**
-
-```bash
-heroku ps:scale worker=1
-```
-
----
-
-## 🟢 Koyeb
-
-1. Fork the repo
-2. Go to **koyeb.com**
-3. Create App → GitHub Repository
-4. Runtime: **Node.js**
-5. Start command:
-
-   ```bash
-   npm start
-   ```
-6. Add environment variables
-7. Deploy ✅
-
----
-
-## 🔵 Render
-
-1. Fork the repo
-2. Go to **render.com**
-3. New → **Background Worker**
-4. Connect GitHub repository
-5. Build command:
-
-   ```bash
-   npm install
-   ```
-6. Start command:
-
-   ```bash
-   npm start
-   ```
-7. Add environment variables
-8. Deploy 🚀
-
----
-
-## 🟡 Railway (Recommended)
-
-1. Fork repository
-2. Go to **railway.app**
-3. New Project → Deploy from GitHub
-4. Add environment variables
-5. Start command:
-
-   ```bash
-   npm start
-   ```
-6. Done ✅
-
-> Best for WhatsApp bots (long-running process support)
-
----
-
 ## ⚙️ GitHub Actions (CI)
 
 Create this file:
@@ -199,7 +112,7 @@ The developer is **not responsible** for misuse or WhatsApp policy violations.
 
 ## 👑 Credits
 
-* **XPROVerce Team**
+* **DILSHAN Team**
 * **Baileys Multi-Device**
 * Open-source contributors
 
