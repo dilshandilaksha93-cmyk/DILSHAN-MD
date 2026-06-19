@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://i.ibb.co/VWy8DK06/Whats-App-Image-2025-12-09-at-17-38-33-fd4d4ecd.jpg" width="180" />
+<img src=""<img width="1254" height="1254" alt="17818837551231973595425965024703" src="https://github.com/user-attachments/assets/9aeca5c5-ab76-4e13-971d-53fccc5ee167" />
+ width="180" />
 
 # 👑 DILSHAN-MD
 ### Advanced WhatsApp Multi-Device Bot
